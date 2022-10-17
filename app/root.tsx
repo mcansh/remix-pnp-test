@@ -8,6 +8,22 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
+import fontStyleSheetHref from "@fontsource/aguafina-script";
+import appStyleSheetHref from "./styles/app.css";
+
+export function links() {
+  return [
+    {
+      rel: "stylesheet",
+      href: fontStyleSheetHref,
+    },
+    {
+      rel: "stylesheet",
+      href: appStyleSheetHref,
+    },
+  ];
+}
+
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "New Remix App",
