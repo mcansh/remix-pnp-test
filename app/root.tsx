@@ -8,7 +8,7 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
-import fontStyleSheetHref from "@fontsource/aguafina-script";
+import fontStyleSheetHref from "@fontsource/aguafina-script/index.css";
 import appStyleSheetHref from "./styles/app.css";
 
 export function links() {

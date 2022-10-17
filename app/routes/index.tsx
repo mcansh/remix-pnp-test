@@ -1,7 +1,10 @@
+import { something } from "~/somefile";
+
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
       <h1>Welcome to Remix</h1>
+      <h2>{something}</h2>
       <ul>
         <li>
           <a
