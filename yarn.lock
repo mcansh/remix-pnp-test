@@ -1507,10 +1507,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/aguafina-script@npm:^4.5.10":
-  version: 4.5.10
-  resolution: "@fontsource/aguafina-script@npm:4.5.10"
-  checksum: 7f21f9b0dccd1f0e7d4a18a0f1475bf3dc650c8ebb95a499994e17f5a93ea62e0103c006183c66d4fe7b2aadc53dd1b3b2827d5c188786553ce6c4747d696f17
+"@fontsource/inter@npm:^4.5.14":
+  version: 4.5.14
+  resolution: "@fontsource/inter@npm:4.5.14"
+  checksum: 4e2eb9e54f8de0025bca7ad8e0822549f1873c5d9a634b8f99630d7bba750b1c86263229bae99375fc82489daa38df41e0304c77c3efda2d9a2f78d0eba3ec56
   languageName: node
   linkType: hard
 
@@ -8573,7 +8573,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@fontsource/aguafina-script": ^4.5.10
+    "@fontsource/inter": ^4.5.14
     "@remix-run/dev": 1.8.0-pre.1
     "@remix-run/eslint-config": 1.8.0-pre.1
     "@remix-run/node": 1.8.0-pre.1

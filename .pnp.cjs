@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@fontsource/aguafina-script", "npm:4.5.10"],\
+            ["@fontsource/inter", "npm:4.5.14"],\
             ["@remix-run/dev", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:1.8.0-pre.1"],\
             ["@remix-run/eslint-config", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:1.8.0-pre.1"],\
             ["@remix-run/node", "npm:1.8.0-pre.1"],\
@@ -2634,11 +2634,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["@fontsource/aguafina-script", [\
-        ["npm:4.5.10", {\
-          "packageLocation": "./.yarn/cache/@fontsource-aguafina-script-npm-4.5.10-ecfefa38a2-7f21f9b0dc.zip/node_modules/@fontsource/aguafina-script/",\
+      ["@fontsource/inter", [\
+        ["npm:4.5.14", {\
+          "packageLocation": "./.yarn/cache/@fontsource-inter-npm-4.5.14-1959b447e7-4e2eb9e54f.zip/node_modules/@fontsource/inter/",\
           "packageDependencies": [\
-            ["@fontsource/aguafina-script", "npm:4.5.10"]\
+            ["@fontsource/inter", "npm:4.5.14"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -10893,7 +10893,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["root-workspace-0b6124", "workspace:."],\
-            ["@fontsource/aguafina-script", "npm:4.5.10"],\
+            ["@fontsource/inter", "npm:4.5.14"],\
             ["@remix-run/dev", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:1.8.0-pre.1"],\
             ["@remix-run/eslint-config", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:1.8.0-pre.1"],\
             ["@remix-run/node", "npm:1.8.0-pre.1"],\

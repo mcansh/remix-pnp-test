@@ -8,7 +8,7 @@
     "start": "remix-serve build"
   },
   "dependencies": {
-    "@fontsource/aguafina-script": "^4.5.10",
+    "@fontsource/inter": "^4.5.14",
     "@remix-run/node": "1.8.0-pre.1",
     "@remix-run/react": "1.8.0-pre.1",
     "@remix-run/serve": "1.8.0-pre.1",
