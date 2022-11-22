@@ -8345,10 +8345,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["loader-utils", [\
-        ["npm:2.0.2", {\
-          "packageLocation": "./.yarn/cache/loader-utils-npm-2.0.2-c693411911-9078d1ed47.zip/node_modules/loader-utils/",\
+        ["npm:2.0.4", {\
+          "packageLocation": "./.yarn/cache/loader-utils-npm-2.0.4-ba3800585b-a5281f5fff.zip/node_modules/loader-utils/",\
           "packageDependencies": [\
-            ["loader-utils", "npm:2.0.2"],\
+            ["loader-utils", "npm:2.0.4"],\
             ["big.js", "npm:5.2.2"],\
             ["emojis-list", "npm:3.0.0"],\
             ["json5", "npm:2.2.1"]\
@@ -12496,7 +12496,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["estree-walker", "npm:3.0.1"],\
             ["got", "npm:11.8.5"],\
             ["hast-util-to-estree", "npm:2.1.0"],\
-            ["loader-utils", "npm:2.0.2"],\
+            ["loader-utils", "npm:2.0.4"],\
             ["markdown-extensions", "npm:1.1.1"],\
             ["mdast-util-mdx", "npm:1.1.0"],\
             ["micromark-extension-mdxjs", "npm:1.0.0"],\
