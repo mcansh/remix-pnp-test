@@ -13,14 +13,8 @@ import appStyleSheetHref from "./styles/app.css";
 
 export function links() {
   return [
-    {
-      rel: "stylesheet",
-      href: fontStyleSheetHref,
-    },
-    {
-      rel: "stylesheet",
-      href: appStyleSheetHref,
-    },
+    { rel: "stylesheet", href: fontStyleSheetHref },
+    { rel: "stylesheet", href: appStyleSheetHref },
   ];
 }
 
